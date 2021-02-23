@@ -1,1 +1,1 @@
-# KubernetesCRD
+# Kubernetes CRD
